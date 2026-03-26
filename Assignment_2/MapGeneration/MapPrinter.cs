@@ -1,4 +1,4 @@
-﻿namespace Kse.Algorithms.Samples
+﻿namespace PathFinder.MapGeneration
 {
     using System;
     using System.Collections.Generic;

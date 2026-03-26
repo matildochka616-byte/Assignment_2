@@ -1,4 +1,4 @@
-﻿namespace Kse.Algorithms.Samples
+﻿namespace PathFinder.MapGeneration
 {
     public struct Point
     {

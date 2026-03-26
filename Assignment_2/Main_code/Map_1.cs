@@ -1,1 +1,1 @@
-using PathFinder.Map
+using PathFinder.MapGeneration;
